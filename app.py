@@ -72,7 +72,7 @@ st.markdown("<div class='title'>Happy Valentine’s Day 💘</div>", unsafe_allo
 # POLAROID PHOTO
 # -------------------------------------------------
 st.markdown("<div class='polaroid'>", unsafe_allow_html=True)
-st.image("assets/herpic.jpg", use_container_width=True)
+st.image("herpic.jpg", use_container_width=True)
 st.markdown("<div class='caption'>My forever ❤️</div></div>", unsafe_allow_html=True)
 
 # -------------------------------------------------
@@ -110,3 +110,4 @@ with col2:
         YAY!! You just made me the happiest person ever 😭❤️
         </h2>
         """, unsafe_allow_html=True)
+
